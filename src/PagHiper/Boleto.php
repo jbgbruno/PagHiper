@@ -1,9 +1,8 @@
 <?php 
 
-namespace App\PagHiper;
+namespace JbgBruno\PagHiper;
 
 class Boleto {
-
   private $data_post;
   private $headers;
   private $url;

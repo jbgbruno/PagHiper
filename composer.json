@@ -1,0 +1,15 @@
+{
+  "name": "jbgbruno/paghiper",
+  "authors": [
+      {
+          "name": "João Bruno Gomes",
+          "email": "jbg.bruno@gmail.com"
+      }
+  ],
+  "require": {},
+  "autoload": {
+      "psr-4": {
+          "JbgBruno\\": "src"
+      }
+  }
+}
